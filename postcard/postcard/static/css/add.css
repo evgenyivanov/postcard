@@ -1,0 +1,25 @@
+#title {
+text-align: center;
+position: absolute; 
+	left: 50px;
+	top: 50px;
+	}
+
+#view {
+position: absolute; 
+	left: 320px;
+	top: 80px;
+	}
+	
+
+}
+
+#cntrl {
+position: absolute; 
+	left: 20px;
+	top: 2000px;
+	}
+	
+
+}
+

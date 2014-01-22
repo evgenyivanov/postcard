@@ -1,0 +1,26 @@
+#block {
+position: absolute; 
+	left: 320px;
+	top: 40px;
+	}
+
+#para {
+color: brown;
+	}
+	
+#de {
+color: brown;
+	}
+
+#postcard {
+position: absolute; 
+	left: 320px;
+	top: 140px;
+	}
+	
+#butt {
+position: absolute; 
+	left: 320px;
+	top: 720px;
+	}
+	
